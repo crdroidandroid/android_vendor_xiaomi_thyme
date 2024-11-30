@@ -418,7 +418,6 @@ PRODUCT_PACKAGES += \
     libmulticam_image_optical_zoom \
     libmulticam_optical_zoom_control \
     libmulticam_video_optical_zoom \
-    libnanopb \
     libnotifyaudiohal \
     libofflinelog \
     libos \
@@ -444,7 +443,6 @@ PRODUCT_PACKAGES += \
     libsnsdiaglog \
     libssc \
     libssc_default_listener \
-    libssccalapi \
     libst_soft_isp_calc_exposure_shared \
     libst_soft_isp_shared \
     libswregistrationalgo \
