@@ -505,6 +505,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.sensorscalibrate@1.0-service \
     init.qcom.sensors \
     init.qti.chg_policy \
+    mi_thermald \
     nv_mac \
     sensors.qti \
     sscrpcd
