@@ -100,6 +100,10 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/thyme/proprietary/vendor/etc/libnfc-nci.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nci.conf \
     vendor/xiaomi/thyme/proprietary/vendor/etc/libnfc-nxp.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nxp.conf \
     vendor/xiaomi/thyme/proprietary/vendor/libnfc-nxp_RF.conf:$(TARGET_COPY_OUT_VENDOR)/libnfc-nxp_RF.conf \
+    vendor/xiaomi/thyme/proprietary/vendor/etc/ltm_config_xiaomi_42_02_0a_cmd_mode_dsc_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ltm_config_xiaomi_42_02_0a_cmd_mode_dsc_dsi_panel.xml \
+    vendor/xiaomi/thyme/proprietary/vendor/etc/ltm_config_xiaomi_42_02_0b_cmd_mode_dsc_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ltm_config_xiaomi_42_02_0b_cmd_mode_dsc_dsi_panel.xml \
+    vendor/xiaomi/thyme/proprietary/vendor/etc/mdss_dsi_j2s_mp_42_02_0a_dsc_cmd_mi.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mdss_dsi_j2s_mp_42_02_0a_dsc_cmd_mi.xml \
+    vendor/xiaomi/thyme/proprietary/vendor/etc/mdss_dsi_j2s_mp_42_02_0b_dsc_cmd_mi.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mdss_dsi_j2s_mp_42_02_0b_dsc_cmd_mi.xml \
     vendor/xiaomi/thyme/proprietary/vendor/etc/sensors/config/ak991x_dri_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/ak991x_dri_0.json \
     vendor/xiaomi/thyme/proprietary/vendor/etc/sensors/config/bmp285_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/bmp285_0.json \
     vendor/xiaomi/thyme/proprietary/vendor/etc/sensors/config/lsm6dso_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/lsm6dso_0.json \
@@ -173,6 +177,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/thyme/proprietary/vendor/etc/thermal-phone.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-phone.conf \
     vendor/xiaomi/thyme/proprietary/vendor/etc/thermal-region-map.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-region-map.conf \
     vendor/xiaomi/thyme/proprietary/vendor/etc/thermal-tgame.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-tgame.conf \
+    vendor/xiaomi/thyme/proprietary/vendor/etc/tunings.txt:$(TARGET_COPY_OUT_VENDOR)/etc/tunings.txt \
     vendor/xiaomi/thyme/proprietary/vendor/firmware/CAMERA_ICP.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP.elf \
     vendor/xiaomi/thyme/proprietary/vendor/firmware/aw8697_haptic.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8697_haptic.bin \
     vendor/xiaomi/thyme/proprietary/vendor/firmware/aw8697_rtp_1.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8697_rtp_1.bin \
