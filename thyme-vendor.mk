@@ -179,6 +179,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/thyme/proprietary/vendor/etc/thermal-tgame.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-tgame.conf \
     vendor/xiaomi/thyme/proprietary/vendor/etc/tunings.txt:$(TARGET_COPY_OUT_VENDOR)/etc/tunings.txt \
     vendor/xiaomi/thyme/proprietary/vendor/firmware/CAMERA_ICP.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP.elf \
+    vendor/xiaomi/thyme/proprietary/vendor/firmware/J2S_limit_csot.csv:$(TARGET_COPY_OUT_VENDOR)/firmware/J2S_limit_csot.csv \
     vendor/xiaomi/thyme/proprietary/vendor/firmware/aw8697_haptic.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8697_haptic.bin \
     vendor/xiaomi/thyme/proprietary/vendor/firmware/aw8697_rtp_1.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8697_rtp_1.bin \
     vendor/xiaomi/thyme/proprietary/vendor/firmware/cs35l41-dsp1-diag-revb2.wmfw:$(TARGET_COPY_OUT_VENDOR)/firmware/cs35l41-dsp1-diag-revb2.wmfw \
@@ -206,6 +207,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/thyme/proprietary/vendor/firmware/ipa_uc.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_uc.b02 \
     vendor/xiaomi/thyme/proprietary/vendor/firmware/ipa_uc.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_uc.elf \
     vendor/xiaomi/thyme/proprietary/vendor/firmware/ipa_uc.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_uc.mdt \
+    vendor/xiaomi/thyme/proprietary/vendor/firmware/stm_fts_production_limits.csv:$(TARGET_COPY_OUT_VENDOR)/firmware/stm_fts_production_limits.csv \
     vendor/xiaomi/thyme/proprietary/vendor/firmware/umi_ois.coeff:$(TARGET_COPY_OUT_VENDOR)/firmware/umi_ois.coeff \
     vendor/xiaomi/thyme/proprietary/vendor/firmware/umi_ois.prog:$(TARGET_COPY_OUT_VENDOR)/firmware/umi_ois.prog \
     vendor/xiaomi/thyme/proprietary/vendor/lib64/camera/com.qti.sensormodule.umi_semco_s5khmx.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.umi_semco_s5khmx.bin \
